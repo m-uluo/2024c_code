@@ -1,0 +1,22 @@
+﻿  test.c
+G:\C program\2024c_code\test_1_26\test_1_26\test.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  G:\C program\2024c_code\test_1_26\test_1_26\test.c(23,9):
+  请考虑在格式字符串中使用“%zd”
+  
+G:\C program\2024c_code\test_1_26\test_1_26\test.c(24,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  G:\C program\2024c_code\test_1_26\test_1_26\test.c(24,9):
+  请考虑在格式字符串中使用“%zd”
+  
+G:\C program\2024c_code\test_1_26\test_1_26\test.c(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  G:\C program\2024c_code\test_1_26\test_1_26\test.c(25,9):
+  请考虑在格式字符串中使用“%zd”
+  
+G:\C program\2024c_code\test_1_26\test_1_26\test.c(28,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  G:\C program\2024c_code\test_1_26\test_1_26\test.c(28,9):
+  请考虑在格式字符串中使用“%zd”
+  
+G:\C program\2024c_code\test_1_26\test_1_26\test.c(29,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  G:\C program\2024c_code\test_1_26\test_1_26\test.c(29,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  test_1_26.vcxproj -> G:\C program\2024c_code\test_1_26\x64\Debug\test_1_26.exe
