@@ -1,0 +1,5 @@
+﻿  test.c
+G:\C program\2024c_code\test_1_27\test_1_27\test.c(69,15): warning C4101: “p3”: 未引用的局部变量
+G:\C program\2024c_code\test_1_27\test_1_27\test.c(69,7): warning C4101: “p1”: 未引用的局部变量
+G:\C program\2024c_code\test_1_27\test_1_27\test.c(69,11): warning C4101: “p2”: 未引用的局部变量
+  test_1_27.vcxproj -> G:\C program\2024c_code\test_1_27\x64\Debug\test_1_27.exe
