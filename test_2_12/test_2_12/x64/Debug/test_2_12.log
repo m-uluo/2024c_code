@@ -1,0 +1,10 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+G:\C program\2024c_code\test_2_12\test_2_12\game.c(41,11): warning C4013: “rand”未定义；假设外部返回 int
+G:\C program\2024c_code\test_2_12\test_2_12\game.c(65,5): warning C4013: “Sleep”未定义；假设外部返回 int
+G:\C program\2024c_code\test_2_12\test_2_12\test.c(25,2): warning C4013: “Sleep”未定义；假设外部返回 int
+G:\C program\2024c_code\test_2_12\test_2_12\test.c(34,2): warning C4013: “system”未定义；假设外部返回 int
+G:\C program\2024c_code\test_2_12\test_2_12\test.c(39,2): warning C4013: “srand”未定义；假设外部返回 int
+G:\C program\2024c_code\test_2_12\test_2_12\test.c(39,22): warning C4013: “time”未定义；假设外部返回 int
+  test_2_12.vcxproj -> G:\C program\2024c_code\test_2_12\x64\Debug\test_2_12.exe
