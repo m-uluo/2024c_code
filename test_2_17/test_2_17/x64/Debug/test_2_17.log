@@ -1,0 +1,5 @@
+﻿  test.c
+G:\C program\2024c_code\test_2_17\test_2_17\test.c(7): warning C4172: 返回局部变量或临时变量的地址: a
+G:\C program\2024c_code\test_2_17\test_2_17\test.c(70,6): warning C4101: “arr”: 未引用的局部变量
+G:\C program\2024c_code\test_2_17\test_2_17\test.c(108,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  test_2_17.vcxproj -> G:\C program\2024c_code\test_2_17\x64\Debug\test_2_17.exe
