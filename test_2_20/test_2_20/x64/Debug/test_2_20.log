@@ -1,0 +1,5 @@
+﻿  test.c
+G:\C program\2024c_code\test_2_20\test_2_20\test.c(13,7): warning C4047: “初始化”:“char”与“void *”的间接级别不同
+G:\C program\2024c_code\test_2_20\test_2_20\test.c(29,7): warning C4047: “初始化”:“char”与“void *”的间接级别不同
+G:\C program\2024c_code\test_2_20\test_2_20\test.c(84,2): warning C4013: “gets”未定义；假设外部返回 int
+  test_2_20.vcxproj -> G:\C program\2024c_code\test_2_20\x64\Debug\test_2_20.exe
