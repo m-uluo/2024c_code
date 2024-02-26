@@ -1,0 +1,14 @@
+﻿  test.c
+G:\C program\2024c_code\test_2_24\test_2_24\test.c(29,6): error C2084: 函数“void test(int *)”已有主体
+  G:\C program\2024c_code\test_2_24\test_2_24\test.c(28,6):
+  参见“test”的前一个定义
+  
+G:\C program\2024c_code\test_2_24\test_2_24\test.c(32,6): error C2084: 函数“void test2(int **)”已有主体
+  G:\C program\2024c_code\test_2_24\test_2_24\test.c(31,6):
+  参见“test2”的前一个定义
+  
+G:\C program\2024c_code\test_2_24\test_2_24\test.c(35,16): error C2087: “arr”: 缺少下标
+G:\C program\2024c_code\test_2_24\test_2_24\test.c(35,6): error C2084: 函数“void test3(int (*)[5])”已有主体
+  G:\C program\2024c_code\test_2_24\test_2_24\test.c(34,6):
+  参见“test3”的前一个定义
+  
