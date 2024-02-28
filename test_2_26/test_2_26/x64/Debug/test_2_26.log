@@ -1,0 +1,6 @@
+﻿  test.c
+G:\C program\2024c_code\test_2_26\test_2_26\test.c(82,16): error C2059: 语法错误:“)”
+G:\C program\2024c_code\test_2_26\test_2_26\test.c(114,39): warning C4034: sizeof 返回 0
+G:\C program\2024c_code\test_2_26\test_2_26\test.c(118,20): error C2095: “printf”: 实参具有“void”类型 : 参数 2
+G:\C program\2024c_code\test_2_26\test_2_26\test.c(118,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“void”
+G:\C program\2024c_code\test_2_26\test_2_26\test.c(120,10): warning C4098: “bubble_sort1”:“void”函数返回值
