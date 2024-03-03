@@ -1,0 +1,3 @@
+﻿  test.c
+G:\C program\2024c_code\test_2_29\test_2_29\test.c(78,11): warning C4090: “return”: 不同的“const”限定符
+  test_2_29.vcxproj -> G:\C program\2024c_code\test_2_29\x64\Debug\test_2_29.exe
