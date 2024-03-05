@@ -1,0 +1,6 @@
+﻿  contact.c
+  test.c
+  正在生成代码...
+G:\C program\2024c_code\test_3_4\test_3_4\contact.c(18,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+G:\C program\2024c_code\test_3_4\test_3_4\contact.c(60,10): warning C4013: “FindByName”未定义；假设外部返回 int
+  test_3_4.vcxproj -> G:\C program\2024c_code\test_3_4\x64\Debug\test_3_4.exe
